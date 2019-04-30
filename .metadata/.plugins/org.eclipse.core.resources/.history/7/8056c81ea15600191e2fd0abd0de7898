@@ -1,0 +1,10 @@
+package com.infotec.app;
+
+@SpringBootApplication
+public class HelloWorldSpringBootApp {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

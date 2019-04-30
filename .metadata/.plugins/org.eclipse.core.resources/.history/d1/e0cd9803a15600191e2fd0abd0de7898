@@ -1,0 +1,11 @@
+package com.infotec.app;
+
+@RestController
+public class HelloworldController {
+
+	
+	@RequestMapping(value="/")
+	public String hello() {
+		return "Hello World ! ! ";
+	}
+}

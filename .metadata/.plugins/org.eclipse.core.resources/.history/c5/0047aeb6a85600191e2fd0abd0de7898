@@ -1,0 +1,5 @@
+package com.infotec.app.controller;
+
+public class HelloWorldController {
+
+}
